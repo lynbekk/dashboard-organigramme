@@ -1,0 +1,24 @@
+[
+    {
+      "Sections": "L2-I-1",
+      "Palier": "L2",
+      "Spécialité": "I",
+      "Section": 1,
+      "Total": 13,
+      "Prévu": 13,
+      "Rest": 0,
+      "Heures": 1.0,
+      "Remarque": ""
+    },
+    {
+      "Sections": "L2-I-2",
+      "Palier": "L2",
+      "Spécialité": "I",
+      "Section": 2,
+      "Total": 13,
+      "Prévu": 13,
+      "Rest": 0,
+      "Heures": 1.0,
+      "Remarque": ""
+    }
+  ]
